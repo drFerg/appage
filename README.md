@@ -1,5 +1,7 @@
-Django
+appage
 ======
+A Django-based webapp for tracking app usage across iOS and Android devices, primarly targeted at parents and their children. This was an entry for the Glasgow University Tech Society's debut hackathon and won the Barclay's prize for most viable business idea.
+
 # AppTracker Challenge
 
 People are today using their phones for virtually anything and everything. Even when doing ‘nothing much’, they use their phones to pass the time. Whether it is for the utility of ﬁnding their way to their destination, to have a relaxing time with a game, or to connect with friends, the phone is always at hand. All of these interactions with phones can sometimes be in the way of face-to-face interactions, and recently more and more people have started to suggest that people spend more time capturing and talking about moments, than being in the actual moments. At the same time it allows us to stay always connected with friends. Coordinating meet-ups with friends after school has changed its nature, as the phone allows for micro-coordination, and to virtually arrive while being physically late.
